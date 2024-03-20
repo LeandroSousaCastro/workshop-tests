@@ -1,0 +1,4 @@
+/vendor
+/.devcontainer
+/.github
+/.phpunit.cache
